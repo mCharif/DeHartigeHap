@@ -1,13 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package hartigehap.inkoop.main;
-
 
 /**
  *
- * @author ppthgast
+ * @author Erik
  */
 public class Main {
     
