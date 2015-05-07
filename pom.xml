@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.avans</groupId>
   <artifactId>dehartigehap</artifactId>
-  <name>De Hartige Hap - Magazijn</name>
+  <name>De Hartige Hap - Magazijn/Inkoop</name>
   <packaging>jar</packaging>
   <version>1.0.0.BUILD-SNAPSHOT</version>
   <properties>
